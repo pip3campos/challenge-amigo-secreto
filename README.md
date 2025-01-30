@@ -36,6 +36,11 @@ La aplicación permite a los usuarios ingresar los nombres de sus amigos a trav�
 3. Cuando desees realizar el sorteo, haz clic en el botón "Sortear Amigo". El nombre seleccionado se mostrará como el "amigo secreto".
 4. La lista se vaciará después de cada sorteo, y puedes agregar más nombres para realizar otro sorteo.
 
+## Sitio en Vivo
+
+El proyecto está disponible en línea y puedes probarlo en el siguiente enlace:  
+[https://pip3campos.github.io/challenge-amigo-secreto/](https://pip3campos.github.io/challenge-amigo-secreto/)
+
 ## Problemas conocidos
 
 - Actualmente, la aplicación permite ingresar nombres repetidos en la lista. No hay validación para evitar duplicados.
